@@ -2,7 +2,7 @@
 
 This is from Traversy Media youtube channel. I re-coded it myself along with the video. 
 
-Just refreshing myself to code after months of no coding (cause of burnout and my pc crash)
+Just refreshing myself to code after months of no coding (coz of burnout and my pc crash)
 
 -----------------------
 
